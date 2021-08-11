@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(213, 247, 241);
+    color: black;
+}
+
+.foto-perfil{
+    height: 700px;
+    width: auto;
+    max-width: 1200px;
+}
